@@ -1,0 +1,6 @@
+mongodb+srv://johnram216:johnram216@backenddb.kgu4kk2.mongodb.net/?retryWrites=true&w=majority&appName=BackendDB
+
+
+
+
+npm install mongodb
